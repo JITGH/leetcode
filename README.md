@@ -29,3 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1044-find-common-characters](https://github.com/JITGH/leetcode/tree/master/1044-find-common-characters) |
+# Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/JITGH/leetcode/tree/master/0175-combine-two-tables) |
