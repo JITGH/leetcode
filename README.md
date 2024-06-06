@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0876-hand-of-straights](https://github.com/JITGH/leetcode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/JITGH/leetcode/tree/master/1044-find-common-characters) |
+| [1753-path-with-minimum-effort](https://github.com/JITGH/leetcode/tree/master/1753-path-with-minimum-effort) |
 # Database
 |  |
 | ------- |
@@ -40,3 +41,27 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/JITGH/leetcode/tree/master/0876-hand-of-straights) |
+# Binary Search
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/JITGH/leetcode/tree/master/1753-path-with-minimum-effort) |
+# Depth-First Search
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/JITGH/leetcode/tree/master/1753-path-with-minimum-effort) |
+# Breadth-First Search
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/JITGH/leetcode/tree/master/1753-path-with-minimum-effort) |
+# Union Find
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/JITGH/leetcode/tree/master/1753-path-with-minimum-effort) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/JITGH/leetcode/tree/master/1753-path-with-minimum-effort) |
+# Matrix
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/JITGH/leetcode/tree/master/1753-path-with-minimum-effort) |
