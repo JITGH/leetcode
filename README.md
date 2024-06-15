@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/JITGH/leetcode/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/JITGH/leetcode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/JITGH/leetcode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/JITGH/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/JITGH/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/JITGH/leetcode/tree/master/0075-sort-colors) |
+| [0502-ipo](https://github.com/JITGH/leetcode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/JITGH/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/JITGH/leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/JITGH/leetcode/tree/master/0876-hand-of-straights) |
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/JITGH/leetcode/tree/master/0075-sort-colors) |
+| [0502-ipo](https://github.com/JITGH/leetcode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/JITGH/leetcode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/JITGH/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/JITGH/leetcode/tree/master/1217-relative-sort-array) |
@@ -79,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Heap (Priority Queue)
 |  |
 | ------- |
+| [0502-ipo](https://github.com/JITGH/leetcode/tree/master/0502-ipo) |
 | [1753-path-with-minimum-effort](https://github.com/JITGH/leetcode/tree/master/1753-path-with-minimum-effort) |
 # Matrix
 |  |
