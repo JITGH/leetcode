@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/JITGH/leetcode/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/JITGH/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/JITGH/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JITGH/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Greedy
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1217-relative-sort-array](https://github.com/JITGH/leetcode/tree/master/1217-relative-sort-array) |
 | [1753-path-with-minimum-effort](https://github.com/JITGH/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/JITGH/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JITGH/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Database
 |  |
 | ------- |
@@ -64,11 +66,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0982-minimum-increment-to-make-array-unique](https://github.com/JITGH/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/JITGH/leetcode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/JITGH/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JITGH/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Binary Search
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/JITGH/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1753-path-with-minimum-effort](https://github.com/JITGH/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JITGH/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Depth-First Search
 |  |
 | ------- |
