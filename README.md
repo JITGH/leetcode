@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/JITGH/leetcode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/JITGH/leetcode/tree/master/1217-relative-sort-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/JITGH/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/JITGH/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1753-path-with-minimum-effort](https://github.com/JITGH/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/JITGH/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JITGH/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/JITGH/leetcode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/JITGH/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/JITGH/leetcode/tree/master/1217-relative-sort-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/JITGH/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/JITGH/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JITGH/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Binary Search
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/JITGH/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/JITGH/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/JITGH/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/JITGH/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1753-path-with-minimum-effort](https://github.com/JITGH/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JITGH/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Depth-First Search
