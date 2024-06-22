@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/JITGH/leetcode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/JITGH/leetcode/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/JITGH/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JITGH/leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 # Array
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/JITGH/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/JITGH/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JITGH/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JITGH/leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 # Database
 |  |
 | ------- |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1675-magnetic-force-between-two-balls](https://github.com/JITGH/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/JITGH/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JITGH/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JITGH/leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 # Binary Search
 |  |
 | ------- |
