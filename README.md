@@ -180,3 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/JITGH/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/JITGH/leetcode/tree/master/1916-find-center-of-star-graph) |
