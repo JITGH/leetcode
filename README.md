@@ -188,3 +188,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/JITGH/leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/JITGH/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/JITGH/leetcode/tree/master/1293-three-consecutive-odds) |
+<!---LeetCode Topics End-->
