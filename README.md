@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JITGH/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/JITGH/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/JITGH/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Two Pointers
 |  |
 | ------- |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/JITGH/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JITGH/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/JITGH/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -225,4 +227,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JITGH/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Greedy
+|  |
+| ------- |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/JITGH/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 <!---LeetCode Topics End-->
