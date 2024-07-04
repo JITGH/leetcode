@@ -239,4 +239,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/JITGH/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/JITGH/leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
