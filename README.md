@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/JITGH/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/JITGH/leetcode/tree/master/2645-pass-the-pillow) |
 ## Database
 |  |
 | ------- |
@@ -256,4 +257,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1801-average-time-of-process-per-machine](https://github.com/JITGH/leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/JITGH/leetcode/tree/master/1827-invalid-tweets) |
 | [2087-confirmation-rate](https://github.com/JITGH/leetcode/tree/master/2087-confirmation-rate) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/JITGH/leetcode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
