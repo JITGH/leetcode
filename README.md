@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/JITGH/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/JITGH/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0744-network-delay-time](https://github.com/JITGH/leetcode/tree/master/0744-network-delay-time) |
 ## Data Stream
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/JITGH/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/JITGH/leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/JITGH/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -292,4 +294,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/JITGH/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/JITGH/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/JITGH/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
