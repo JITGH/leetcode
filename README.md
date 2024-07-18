@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/JITGH/leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/JITGH/leetcode/tree/master/0744-network-delay-time) |
 | [1207-delete-nodes-and-return-forest](https://github.com/JITGH/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/JITGH/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -292,10 +293,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/JITGH/leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/JITGH/leetcode/tree/master/0744-network-delay-time) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/JITGH/leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/JITGH/leetcode/tree/master/0744-network-delay-time) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/JITGH/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/JITGH/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -353,4 +356,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/JITGH/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/JITGH/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/JITGH/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/JITGH/leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
