@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/JITGH/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/JITGH/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/JITGH/leetcode/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/JITGH/leetcode/tree/master/0078-subsets) |
 | [0135-candy](https://github.com/JITGH/leetcode/tree/master/0135-candy) |
 | [0228-summary-ranges](https://github.com/JITGH/leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/JITGH/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -567,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/JITGH/leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/JITGH/leetcode/tree/master/0078-subsets) |
 ## Game Theory
 |  |
 | ------- |
@@ -574,5 +576,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/JITGH/leetcode/tree/master/0078-subsets) |
 | [0476-number-complement](https://github.com/JITGH/leetcode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
