@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0040-combination-sum-ii](https://github.com/JITGH/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/JITGH/leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/JITGH/leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/JITGH/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/JITGH/leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/JITGH/leetcode/tree/master/0078-subsets) |
@@ -575,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/JITGH/leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/JITGH/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/JITGH/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/JITGH/leetcode/tree/master/0090-subsets-ii) |
 ## Game Theory
