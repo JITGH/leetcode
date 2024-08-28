@@ -442,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/JITGH/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/JITGH/leetcode/tree/master/0055-jump-game) |
+| [0131-palindrome-partitioning](https://github.com/JITGH/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0264-ugly-number-ii](https://github.com/JITGH/leetcode/tree/master/0264-ugly-number-ii) |
 | [0435-non-overlapping-intervals](https://github.com/JITGH/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0650-2-keys-keyboard](https://github.com/JITGH/leetcode/tree/master/0650-2-keys-keyboard) |
@@ -481,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/JITGH/leetcode/tree/master/0014-longest-common-prefix) |
+| [0131-palindrome-partitioning](https://github.com/JITGH/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0273-integer-to-english-words](https://github.com/JITGH/leetcode/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/JITGH/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/JITGH/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -597,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/JITGH/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/JITGH/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/JITGH/leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/JITGH/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Game Theory
 |  |
 | ------- |
