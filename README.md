@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/JITGH/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2035-count-sub-islands](https://github.com/JITGH/leetcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/JITGH/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/JITGH/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/JITGH/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/JITGH/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/JITGH/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/JITGH/leetcode/tree/master/0735-asteroid-collision) |
 | [0921-spiral-matrix-iii](https://github.com/JITGH/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/JITGH/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/JITGH/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/JITGH/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/JITGH/leetcode/tree/master/2645-pass-the-pillow) |
 ## Database
@@ -552,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/JITGH/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/JITGH/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/JITGH/leetcode/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/JITGH/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/JITGH/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Bucket Sort
 |  |
