@@ -3,18 +3,24 @@ public:
 
     int getLucky(string s, int k) {
         int n=s.size();
-        string ans="";
+       int ans=0;
         for(char ch:s){
-            ans+=to_string(ch-'a'+1);
-        }
-        
-        while(k-->0){
-            int tot=0;
-            for(char it:ans){
-                tot+=it-'0';
+            int pos=ch-'a'+1;
+            while(pos>0){
+                ans+=pos%10;
+                pos/=10;
             }
-            ans=to_string(tot);
         }
-        return stoi(ans);
+        for(int i=1;i<k;i++){
+            int tot=0;
+            while(ans>0){
+                tot+=ans%10;
+                ans/=10;
+            }
+            ans=tot;
+        }
+
+
+        return ans;
     }
 };
