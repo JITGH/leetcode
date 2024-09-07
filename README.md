@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/JITGH/leetcode/tree/master/0135-candy) |
 | [0228-summary-ranges](https://github.com/JITGH/leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/JITGH/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/JITGH/leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/JITGH/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JITGH/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JITGH/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/JITGH/leetcode/tree/master/0088-merge-sorted-array) |
+| [0274-h-index](https://github.com/JITGH/leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/JITGH/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JITGH/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/JITGH/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -598,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/JITGH/leetcode/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/JITGH/leetcode/tree/master/0948-sort-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/JITGH/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Biconnected Component
