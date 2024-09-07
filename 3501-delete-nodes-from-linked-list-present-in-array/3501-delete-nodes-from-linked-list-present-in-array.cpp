@@ -26,8 +26,8 @@ public:
             }
         }
         
-        ListNode* ans = dum->next;
-        delete dum;
-        return ans;
+        //ListNode* ans = dum->next;
+       // delete dum;
+        return dum->next;
     }
 };
