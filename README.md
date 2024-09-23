@@ -314,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/JITGH/leetcode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/JITGH/leetcode/tree/master/0037-sudoku-solver) |
 | [0264-ugly-number-ii](https://github.com/JITGH/leetcode/tree/master/0264-ugly-number-ii) |
+| [0290-word-pattern](https://github.com/JITGH/leetcode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JITGH/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JITGH/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/JITGH/leetcode/tree/master/0383-ransom-note) |
@@ -552,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0214-shortest-palindrome](https://github.com/JITGH/leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/JITGH/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/JITGH/leetcode/tree/master/0273-integer-to-english-words) |
+| [0290-word-pattern](https://github.com/JITGH/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/JITGH/leetcode/tree/master/0383-ransom-note) |
 | [0564-find-the-closest-palindrome](https://github.com/JITGH/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/JITGH/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
