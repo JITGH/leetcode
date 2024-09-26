@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0624-maximum-distance-in-arrays](https://github.com/JITGH/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/JITGH/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/JITGH/leetcode/tree/master/0721-accounts-merge) |
+| [0729-my-calendar-i](https://github.com/JITGH/leetcode/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/JITGH/leetcode/tree/master/0735-asteroid-collision) |
 | [0854-making-a-large-island](https://github.com/JITGH/leetcode/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/JITGH/leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/JITGH/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JITGH/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0729-my-calendar-i](https://github.com/JITGH/leetcode/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/JITGH/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Sorting
 |  |
@@ -343,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/JITGH/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JITGH/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/JITGH/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/JITGH/leetcode/tree/master/0729-my-calendar-i) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/JITGH/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/JITGH/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Greedy
@@ -752,4 +755,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/JITGH/leetcode/tree/master/0214-shortest-palindrome) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/JITGH/leetcode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/JITGH/leetcode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
