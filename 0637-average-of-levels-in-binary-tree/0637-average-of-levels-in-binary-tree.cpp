@@ -17,7 +17,7 @@ public:
         queue<TreeNode*>q;
         q.push(root);
         while(!q.empty()){
-            long temp=0;
+            double temp=0.0;
             int s=q.size();
             for(int i=0;i<s;i++){
                 TreeNode* node=q.front();
@@ -28,7 +28,7 @@ public:
                 temp+=node->val;
 
             }
-            ans.push_back((double)temp/s);
+            ans.push_back(temp/s);
         }
         return ans;
     }
