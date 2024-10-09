@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/JITGH/leetcode/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/JITGH/leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JITGH/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/JITGH/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/JITGH/leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/JITGH/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/JITGH/leetcode/tree/master/0274-h-index) |
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/JITGH/leetcode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/JITGH/leetcode/tree/master/0037-sudoku-solver) |
 | [0133-clone-graph](https://github.com/JITGH/leetcode/tree/master/0133-clone-graph) |
+| [0219-contains-duplicate-ii](https://github.com/JITGH/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/JITGH/leetcode/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/JITGH/leetcode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JITGH/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -778,6 +780,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/JITGH/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/JITGH/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/JITGH/leetcode/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/JITGH/leetcode/tree/master/0966-binary-subarrays-with-sum) |
