@@ -296,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/JITGH/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/JITGH/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JITGH/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/JITGH/leetcode/tree/master/0432-all-oone-data-structure) |
@@ -679,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/JITGH/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JITGH/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/JITGH/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/JITGH/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/JITGH/leetcode/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/JITGH/leetcode/tree/master/0735-asteroid-collision) |
@@ -698,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/JITGH/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/JITGH/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JITGH/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/JITGH/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/JITGH/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/JITGH/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/JITGH/leetcode/tree/master/0226-invert-binary-tree) |
@@ -718,6 +721,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/JITGH/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/JITGH/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JITGH/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/JITGH/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/JITGH/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/JITGH/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/JITGH/leetcode/tree/master/0226-invert-binary-tree) |
@@ -817,6 +821,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/JITGH/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/JITGH/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/JITGH/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1285-balance-a-binary-search-tree](https://github.com/JITGH/leetcode/tree/master/1285-balance-a-binary-search-tree) |
@@ -901,4 +906,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/JITGH/leetcode/tree/master/1002-maximum-width-ramp) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/JITGH/leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
