@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/JITGH/leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/JITGH/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1207-delete-nodes-and-return-forest](https://github.com/JITGH/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/JITGH/leetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1240-stone-game-ii](https://github.com/JITGH/leetcode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/JITGH/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/JITGH/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -418,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/JITGH/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/JITGH/leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/JITGH/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/JITGH/leetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1285-balance-a-binary-search-tree](https://github.com/JITGH/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/JITGH/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/JITGH/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -604,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/JITGH/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/JITGH/leetcode/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/JITGH/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/JITGH/leetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1240-stone-game-ii](https://github.com/JITGH/leetcode/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/JITGH/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/JITGH/leetcode/tree/master/1511-count-number-of-teams) |
@@ -697,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-n-ary-tree-postorder-traversal](https://github.com/JITGH/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/JITGH/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/JITGH/leetcode/tree/master/1002-maximum-width-ramp) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/JITGH/leetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JITGH/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/JITGH/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/JITGH/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -919,6 +923,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/JITGH/leetcode/tree/master/1002-maximum-width-ramp) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/JITGH/leetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## Iterator
 |  |
 | ------- |
