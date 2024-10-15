@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3235-minimum-cost-to-convert-string-i](https://github.com/JITGH/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/JITGH/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JITGH/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JITGH/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -350,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/JITGH/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/JITGH/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/JITGH/leetcode/tree/master/2803-modify-graph-edge-weights) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JITGH/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Data Stream
 |  |
 | ------- |
@@ -393,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2755-extra-characters-in-a-string](https://github.com/JITGH/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/JITGH/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JITGH/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JITGH/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -831,6 +834,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/JITGH/leetcode/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/JITGH/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/JITGH/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JITGH/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Strongly Connected Component
 |  |
 | ------- |
