@@ -1,33 +1,31 @@
 class Solution {
 public:
     vector<int> findXSum(vector<int>& nums, int k, int x) {
-        vector<int>ans;
-
         int n=nums.size();
-        unordered_map<int,int>mpp;
+        vector<int>ans;
+        unordered_map<int,int>freq;
         for(int j=0;j<k;j++){
-            mpp[nums[j]]++;
+            freq[nums[j]]++;
         }
-        ans.push_back(calxsum(mpp,x));
+        ans.push_back(calXsum(freq,x));
 
         for(int i=1;i<=n-k;i++){
-            mpp[nums[i-1]]--;
-            if(mpp[nums[i-1]]==0){
-                mpp.erase(nums[i-1]);
+            freq[nums[i-1]]--;
+            if(freq[nums[i-1]]==0){
+                freq.erase(nums[i-1]);
             }
-            mpp[nums[i+k-1]]++;
-            ans.push_back(calxsum(mpp,x));
-        }
+            freq[nums[i+k-1]]++;
 
+            ans.push_back(calXsum(freq,x));
+        }
         return ans;
     }
 
     private:
-    int calxsum(const unordered_map<int,int>&mpp,int x){
+    int calXsum(const unordered_map<int,int>&freq,int x){
         priority_queue<pair<int,int>>pq;
-
-        for(const auto& entry:mpp){
-            pq.push({entry.second,entry.first});
+        for(const auto &it:freq){
+            pq.push({it.second,it.first});
         }
         int sum=0;
         for(int i=0;i<x && !pq.empty();i++){
