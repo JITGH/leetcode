@@ -485,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/JITGH/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/JITGH/leetcode/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/JITGH/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/JITGH/leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Database
 |  |
 | ------- |
@@ -734,6 +735,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3195-separate-black-and-white-balls](https://github.com/JITGH/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/JITGH/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/JITGH/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/JITGH/leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Stack
 |  |
 | ------- |
