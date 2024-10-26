@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JITGH/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0086-partition-list](https://github.com/JITGH/leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/JITGH/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/JITGH/leetcode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/JITGH/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -461,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JITGH/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0086-partition-list](https://github.com/JITGH/leetcode/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/JITGH/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/JITGH/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/JITGH/leetcode/tree/master/0138-copy-list-with-random-pointer) |
