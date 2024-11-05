@@ -723,6 +723,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/JITGH/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JITGH/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/JITGH/leetcode/tree/master/0038-count-and-say) |
+| [0065-valid-number](https://github.com/JITGH/leetcode/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/JITGH/leetcode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/JITGH/leetcode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/JITGH/leetcode/tree/master/0125-valid-palindrome) |
