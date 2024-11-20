@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/JITGH/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/JITGH/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/JITGH/leetcode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/JITGH/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/JITGH/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/JITGH/leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/JITGH/leetcode/tree/master/0078-subsets) |
@@ -529,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/JITGH/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/JITGH/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/JITGH/leetcode/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/JITGH/leetcode/tree/master/0906-walking-robot-simulation) |
@@ -909,6 +911,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/JITGH/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/JITGH/leetcode/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/JITGH/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/JITGH/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/JITGH/leetcode/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/JITGH/leetcode/tree/master/0221-maximal-square) |
