@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/JITGH/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/JITGH/leetcode/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/JITGH/leetcode/tree/master/0735-asteroid-collision) |
+| [0787-sliding-puzzle](https://github.com/JITGH/leetcode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/JITGH/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/JITGH/leetcode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/JITGH/leetcode/tree/master/0859-design-circular-deque) |
@@ -664,6 +665,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/JITGH/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0721-accounts-merge](https://github.com/JITGH/leetcode/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/JITGH/leetcode/tree/master/0744-network-delay-time) |
+| [0787-sliding-puzzle](https://github.com/JITGH/leetcode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/JITGH/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/JITGH/leetcode/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/JITGH/leetcode/tree/master/0945-snakes-and-ladders) |
@@ -924,6 +926,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/JITGH/leetcode/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/JITGH/leetcode/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/JITGH/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0787-sliding-puzzle](https://github.com/JITGH/leetcode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/JITGH/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/JITGH/leetcode/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/JITGH/leetcode/tree/master/0870-magic-squares-in-grid) |
