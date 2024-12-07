@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/JITGH/leetcode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/JITGH/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/JITGH/leetcode/tree/master/0860-design-circular-queue) |
+| [0861-flipping-an-image](https://github.com/JITGH/leetcode/tree/master/0861-flipping-an-image) |
 | [0870-magic-squares-in-grid](https://github.com/JITGH/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/JITGH/leetcode/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JITGH/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -341,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/JITGH/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/JITGH/leetcode/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/JITGH/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0861-flipping-an-image](https://github.com/JITGH/leetcode/tree/master/0861-flipping-an-image) |
 | [0953-reverse-only-letters](https://github.com/JITGH/leetcode/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/JITGH/leetcode/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/JITGH/leetcode/tree/master/0979-di-string-match) |
@@ -572,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/JITGH/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/JITGH/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/JITGH/leetcode/tree/master/0735-asteroid-collision) |
+| [0861-flipping-an-image](https://github.com/JITGH/leetcode/tree/master/0861-flipping-an-image) |
 | [0906-walking-robot-simulation](https://github.com/JITGH/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/JITGH/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/JITGH/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -1001,6 +1004,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/JITGH/leetcode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/JITGH/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/JITGH/leetcode/tree/master/0854-making-a-large-island) |
+| [0861-flipping-an-image](https://github.com/JITGH/leetcode/tree/master/0861-flipping-an-image) |
 | [0870-magic-squares-in-grid](https://github.com/JITGH/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/JITGH/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0945-snakes-and-ladders](https://github.com/JITGH/leetcode/tree/master/0945-snakes-and-ladders) |
@@ -1129,6 +1133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/JITGH/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/JITGH/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/JITGH/leetcode/tree/master/0476-number-complement) |
+| [0861-flipping-an-image](https://github.com/JITGH/leetcode/tree/master/0861-flipping-an-image) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/JITGH/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JITGH/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/JITGH/leetcode/tree/master/1940-maximum-xor-for-each-query) |
