@@ -339,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/JITGH/leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/JITGH/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/JITGH/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0961-long-pressed-name](https://github.com/JITGH/leetcode/tree/master/0961-long-pressed-name) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JITGH/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/JITGH/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/JITGH/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -847,6 +848,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/JITGH/leetcode/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/JITGH/leetcode/tree/master/0726-number-of-atoms) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/JITGH/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0961-long-pressed-name](https://github.com/JITGH/leetcode/tree/master/0961-long-pressed-name) |
 | [1078-remove-outermost-parentheses](https://github.com/JITGH/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/JITGH/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/JITGH/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
