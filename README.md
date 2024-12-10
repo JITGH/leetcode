@@ -344,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/JITGH/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/JITGH/leetcode/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/JITGH/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/JITGH/leetcode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0861-flipping-an-image](https://github.com/JITGH/leetcode/tree/master/0861-flipping-an-image) |
 | [0953-reverse-only-letters](https://github.com/JITGH/leetcode/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/JITGH/leetcode/tree/master/0961-long-pressed-name) |
@@ -865,6 +866,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0696-count-binary-substrings](https://github.com/JITGH/leetcode/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/JITGH/leetcode/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/JITGH/leetcode/tree/master/0726-number-of-atoms) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/JITGH/leetcode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0953-reverse-only-letters](https://github.com/JITGH/leetcode/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/JITGH/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/JITGH/leetcode/tree/master/0961-long-pressed-name) |
