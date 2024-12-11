@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/JITGH/leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/JITGH/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/JITGH/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1080-camelcase-matching](https://github.com/JITGH/leetcode/tree/master/1080-camelcase-matching) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JITGH/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/JITGH/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/JITGH/leetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
@@ -350,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0953-reverse-only-letters](https://github.com/JITGH/leetcode/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/JITGH/leetcode/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/JITGH/leetcode/tree/master/0979-di-string-match) |
+| [1080-camelcase-matching](https://github.com/JITGH/leetcode/tree/master/1080-camelcase-matching) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JITGH/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/JITGH/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/JITGH/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -875,6 +877,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0961-long-pressed-name](https://github.com/JITGH/leetcode/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/JITGH/leetcode/tree/master/0979-di-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/JITGH/leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1080-camelcase-matching](https://github.com/JITGH/leetcode/tree/master/1080-camelcase-matching) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/JITGH/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/JITGH/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JITGH/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1090,6 +1093,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/JITGH/leetcode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/JITGH/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/JITGH/leetcode/tree/master/0692-top-k-frequent-words) |
+| [1080-camelcase-matching](https://github.com/JITGH/leetcode/tree/master/1080-camelcase-matching) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JITGH/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/JITGH/leetcode/tree/master/1397-search-suggestions-system) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/JITGH/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -1182,6 +1186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JITGH/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/JITGH/leetcode/tree/master/0214-shortest-palindrome) |
+| [1080-camelcase-matching](https://github.com/JITGH/leetcode/tree/master/1080-camelcase-matching) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/JITGH/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Brainteaser
 |  |
