@@ -875,6 +875,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JITGH/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/JITGH/leetcode/tree/master/0038-count-and-say) |
 | [0065-valid-number](https://github.com/JITGH/leetcode/tree/master/0065-valid-number) |
+| [0071-simplify-path](https://github.com/JITGH/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/JITGH/leetcode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/JITGH/leetcode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/JITGH/leetcode/tree/master/0125-valid-palindrome) |
@@ -945,6 +946,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/JITGH/leetcode/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/JITGH/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JITGH/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/JITGH/leetcode/tree/master/0173-binary-search-tree-iterator) |
