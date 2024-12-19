@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/JITGH/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/JITGH/leetcode/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/JITGH/leetcode/tree/master/0735-asteroid-collision) |
+| [0780-max-chunks-to-make-sorted](https://github.com/JITGH/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/JITGH/leetcode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/JITGH/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/JITGH/leetcode/tree/master/0854-making-a-large-island) |
@@ -402,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/JITGH/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/JITGH/leetcode/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/JITGH/leetcode/tree/master/0726-number-of-atoms) |
+| [0780-max-chunks-to-make-sorted](https://github.com/JITGH/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/JITGH/leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/JITGH/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1256-rank-transform-of-an-array](https://github.com/JITGH/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -563,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0670-maximum-swap](https://github.com/JITGH/leetcode/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/JITGH/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/JITGH/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/JITGH/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/JITGH/leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/JITGH/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/JITGH/leetcode/tree/master/0979-di-string-match) |
@@ -955,6 +958,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/JITGH/leetcode/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/JITGH/leetcode/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/JITGH/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0780-max-chunks-to-make-sorted](https://github.com/JITGH/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/JITGH/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/JITGH/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1078-remove-outermost-parentheses](https://github.com/JITGH/leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -1260,6 +1264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/JITGH/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0780-max-chunks-to-make-sorted](https://github.com/JITGH/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/JITGH/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/JITGH/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/JITGH/leetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
