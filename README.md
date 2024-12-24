@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/JITGH/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/JITGH/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/JITGH/leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/JITGH/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2472-build-a-matrix-with-conditions](https://github.com/JITGH/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/JITGH/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/JITGH/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -694,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/JITGH/leetcode/tree/master/1240-stone-game-ii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/JITGH/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/JITGH/leetcode/tree/master/2155-find-missing-observations) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/JITGH/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2645-pass-the-pillow](https://github.com/JITGH/leetcode/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/JITGH/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/JITGH/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
