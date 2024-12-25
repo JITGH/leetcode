@@ -14,21 +14,23 @@ public:
     vector<int> largestValues(TreeNode* root) {
         vector<int>ans;
         if(root==NULL) return ans;
-
+        
         queue<TreeNode*>q;
         q.push(root);
         while(!q.empty()){
             int n=q.size();
-            vector<int>level;
+            int maxi=INT32_MIN;
+          //  vector<int>level;
             for(int i=0;i<n;i++){
                 auto it=q.front();
+                maxi=(maxi<it->val)?it->val:maxi;
                 q.pop();
                 if(it->left) q.push(it->left);
                 if(it->right) q.push(it->right);
 
-                level.push_back(it->val);
+               // level.push_back(it->val);
             }
-            int maxi=*max_element(level.begin(),level.end());
+            //int maxi=*max_element(level.begin(),level.end());
             ans.push_back(maxi);
         }
         return ans;
