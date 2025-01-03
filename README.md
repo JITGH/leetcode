@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/JITGH/leetcode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/JITGH/leetcode/tree/master/0494-target-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/JITGH/leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0661-image-smoother](https://github.com/JITGH/leetcode/tree/master/0661-image-smoother) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/JITGH/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/JITGH/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/JITGH/leetcode/tree/master/0721-accounts-merge) |
@@ -1101,6 +1102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/JITGH/leetcode/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/JITGH/leetcode/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/JITGH/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0661-image-smoother](https://github.com/JITGH/leetcode/tree/master/0661-image-smoother) |
 | [0787-sliding-puzzle](https://github.com/JITGH/leetcode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/JITGH/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/JITGH/leetcode/tree/master/0854-making-a-large-island) |
