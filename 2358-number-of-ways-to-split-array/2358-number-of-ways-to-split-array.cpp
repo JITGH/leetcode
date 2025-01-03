@@ -3,23 +3,40 @@ public:
     int waysToSplitArray(vector<int>& nums) {
         int c=0;
         int n=nums.size();
-        //int sum1=0;
-        vector<long long>preSum(n);
-        preSum[0]=nums[0];
-
-        for(int i=1;i<n;i++){
-            preSum[i]=preSum[i-1]+nums[i];
+        long long rightSum=0;
+        for(int i=0;i<n;i++){
+            rightSum+=nums[i];
         }
 
+        long long leftSum=0;
         for(int i=0;i<n-1;i++){
-            long long leftSum=preSum[i];
-            long long rightSum=preSum[n-1]-preSum[i];
+            leftSum+=nums[i];
+            rightSum-=nums[i];
 
             if(leftSum>=rightSum){
                 c++;
             }
         }
-return c;
+
+
+
+        //int sum1=0;
+        // vector<long long>preSum(n);
+        // preSum[0]=nums[0];
+
+        // for(int i=1;i<n;i++){
+        //     preSum[i]=preSum[i-1]+nums[i];
+        // }
+
+        // for(int i=0;i<n-1;i++){
+        //     long long leftSum=preSum[i];
+        //     long long rightSum=preSum[n-1]-preSum[i];
+
+        //     if(leftSum>=rightSum){
+        //         c++;
+        //     }
+        // }
+//return c;
 
 
 
@@ -35,6 +52,6 @@ return c;
         //         c++;
         //     }
         // }
-        // return c;
+         return c;
     }
 };
