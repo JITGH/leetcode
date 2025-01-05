@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JITGH/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/JITGH/leetcode/tree/master/0494-target-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/JITGH/leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0638-shopping-offers](https://github.com/JITGH/leetcode/tree/master/0638-shopping-offers) |
 | [0661-image-smoother](https://github.com/JITGH/leetcode/tree/master/0661-image-smoother) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/JITGH/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/JITGH/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -856,6 +857,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/JITGH/leetcode/tree/master/0264-ugly-number-ii) |
 | [0435-non-overlapping-intervals](https://github.com/JITGH/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/JITGH/leetcode/tree/master/0494-target-sum) |
+| [0638-shopping-offers](https://github.com/JITGH/leetcode/tree/master/0638-shopping-offers) |
 | [0650-2-keys-keyboard](https://github.com/JITGH/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/JITGH/leetcode/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/JITGH/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -1258,6 +1260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/JITGH/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/JITGH/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/JITGH/leetcode/tree/master/0494-target-sum) |
+| [0638-shopping-offers](https://github.com/JITGH/leetcode/tree/master/0638-shopping-offers) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/JITGH/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/JITGH/leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JITGH/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1274,6 +1277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/JITGH/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/JITGH/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/JITGH/leetcode/tree/master/0476-number-complement) |
+| [0638-shopping-offers](https://github.com/JITGH/leetcode/tree/master/0638-shopping-offers) |
 | [0861-flipping-an-image](https://github.com/JITGH/leetcode/tree/master/0861-flipping-an-image) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/JITGH/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JITGH/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -1317,6 +1321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/JITGH/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0638-shopping-offers](https://github.com/JITGH/leetcode/tree/master/0638-shopping-offers) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1386,5 +1391,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bitmask
 |  |
 | ------- |
+| [0638-shopping-offers](https://github.com/JITGH/leetcode/tree/master/0638-shopping-offers) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/JITGH/leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 <!---LeetCode Topics End-->
