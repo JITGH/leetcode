@@ -348,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3235-minimum-cost-to-convert-string-i](https://github.com/JITGH/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/JITGH/leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/JITGH/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/JITGH/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/JITGH/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JITGH/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/JITGH/leetcode/tree/master/3427-special-array-ii) |
@@ -1012,6 +1013,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3195-separate-black-and-white-balls](https://github.com/JITGH/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/JITGH/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JITGH/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/JITGH/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/JITGH/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/JITGH/leetcode/tree/master/3451-string-compression-iii) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/JITGH/leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
@@ -1222,6 +1224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1397-search-suggestions-system](https://github.com/JITGH/leetcode/tree/master/1397-search-suggestions-system) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/JITGH/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/JITGH/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/JITGH/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/JITGH/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sliding Window
 |  |
@@ -1324,6 +1327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1080-camelcase-matching](https://github.com/JITGH/leetcode/tree/master/1080-camelcase-matching) |
 | [1524-string-matching-in-an-array](https://github.com/JITGH/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/JITGH/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/JITGH/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1338,12 +1342,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/JITGH/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/JITGH/leetcode/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/JITGH/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/JITGH/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/JITGH/leetcode/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/JITGH/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/JITGH/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Segment Tree
 |  |
 | ------- |
