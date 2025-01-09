@@ -253,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/JITGH/leetcode/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JITGH/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/JITGH/leetcode/tree/master/0906-walking-robot-simulation) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/JITGH/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0921-spiral-matrix-iii](https://github.com/JITGH/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0945-snakes-and-ladders](https://github.com/JITGH/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/JITGH/leetcode/tree/master/0948-sort-an-array) |
@@ -567,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/JITGH/leetcode/tree/master/0731-my-calendar-ii) |
 | [0794-swim-in-rising-water](https://github.com/JITGH/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JITGH/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/JITGH/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1397-search-suggestions-system](https://github.com/JITGH/leetcode/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JITGH/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/JITGH/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -724,6 +726,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/JITGH/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/JITGH/leetcode/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/JITGH/leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/JITGH/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1014-k-closest-points-to-origin](https://github.com/JITGH/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1240-stone-game-ii](https://github.com/JITGH/leetcode/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/JITGH/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1203,6 +1206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/JITGH/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0731-my-calendar-ii](https://github.com/JITGH/leetcode/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JITGH/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/JITGH/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0966-binary-subarrays-with-sum](https://github.com/JITGH/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1240-stone-game-ii](https://github.com/JITGH/leetcode/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/JITGH/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1317,6 +1321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/JITGH/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/JITGH/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 ## Number Theory
 |  |
 | ------- |
@@ -1366,6 +1371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0729-my-calendar-i](https://github.com/JITGH/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/JITGH/leetcode/tree/master/0731-my-calendar-ii) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/JITGH/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [2868-continuous-subarrays](https://github.com/JITGH/leetcode/tree/master/2868-continuous-subarrays) |
 ## Quickselect
 |  |
@@ -1417,4 +1423,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0638-shopping-offers](https://github.com/JITGH/leetcode/tree/master/0638-shopping-offers) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/JITGH/leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/JITGH/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 <!---LeetCode Topics End-->
