@@ -740,6 +740,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2645-pass-the-pillow](https://github.com/JITGH/leetcode/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/JITGH/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/JITGH/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/JITGH/leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JITGH/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/JITGH/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Depth-First Search
@@ -898,6 +899,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/JITGH/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/JITGH/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/JITGH/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/JITGH/leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1320,10 +1322,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3291-find-if-array-can-be-sorted](https://github.com/JITGH/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JITGH/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/JITGH/leetcode/tree/master/3394-minimum-array-end) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/JITGH/leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/JITGH/leetcode/tree/master/0062-unique-paths) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/JITGH/leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Randomized
 |  |
 | ------- |
@@ -1355,6 +1359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/JITGH/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0638-shopping-offers](https://github.com/JITGH/leetcode/tree/master/0638-shopping-offers) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/JITGH/leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Rolling Hash
 |  |
 | ------- |
