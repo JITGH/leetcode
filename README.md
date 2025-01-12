@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0638-shopping-offers](https://github.com/JITGH/leetcode/tree/master/0638-shopping-offers) |
 | [0661-image-smoother](https://github.com/JITGH/leetcode/tree/master/0661-image-smoother) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/JITGH/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/JITGH/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/JITGH/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/JITGH/leetcode/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/JITGH/leetcode/tree/master/0729-my-calendar-i) |
@@ -576,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/JITGH/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/JITGH/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/JITGH/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/JITGH/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/JITGH/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/JITGH/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/JITGH/leetcode/tree/master/0731-my-calendar-ii) |
@@ -893,6 +895,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0664-strange-printer](https://github.com/JITGH/leetcode/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/JITGH/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/JITGH/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/JITGH/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-longest-mountain-in-array](https://github.com/JITGH/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/JITGH/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/JITGH/leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -1272,6 +1275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/JITGH/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/JITGH/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/JITGH/leetcode/tree/master/0567-permutation-in-string) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/JITGH/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JITGH/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/JITGH/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/JITGH/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1383,6 +1387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/JITGH/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/JITGH/leetcode/tree/master/0214-shortest-palindrome) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/JITGH/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/JITGH/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
@@ -1390,6 +1395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/JITGH/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/JITGH/leetcode/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/JITGH/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/JITGH/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/JITGH/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Segment Tree
 |  |
