@@ -704,6 +704,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/JITGH/leetcode/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/JITGH/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/JITGH/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2317-count-collisions-on-a-road](https://github.com/JITGH/leetcode/tree/master/2317-count-collisions-on-a-road) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JITGH/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/JITGH/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/JITGH/leetcode/tree/master/2645-pass-the-pillow) |
@@ -1064,6 +1065,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/JITGH/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/JITGH/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/JITGH/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2317-count-collisions-on-a-road](https://github.com/JITGH/leetcode/tree/master/2317-count-collisions-on-a-road) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/JITGH/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/JITGH/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2465-shifting-letters-ii](https://github.com/JITGH/leetcode/tree/master/2465-shifting-letters-ii) |
@@ -1113,6 +1115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/JITGH/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JITGH/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/JITGH/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2317-count-collisions-on-a-road](https://github.com/JITGH/leetcode/tree/master/2317-count-collisions-on-a-road) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/JITGH/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
