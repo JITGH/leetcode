@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JITGH/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/JITGH/leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/JITGH/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/JITGH/leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/JITGH/leetcode/tree/master/0040-combination-sum-ii) |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JITGH/leetcode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JITGH/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0086-partition-list](https://github.com/JITGH/leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/JITGH/leetcode/tree/master/0088-merge-sorted-array) |
@@ -656,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JITGH/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/JITGH/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/JITGH/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JITGH/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
