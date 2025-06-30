@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/JITGH/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/JITGH/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/JITGH/leetcode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/JITGH/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/JITGH/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/JITGH/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/JITGH/leetcode/tree/master/0057-insert-interval) |
@@ -456,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/JITGH/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/JITGH/leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JITGH/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/JITGH/leetcode/tree/master/0274-h-index) |
@@ -551,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/JITGH/leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/JITGH/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/JITGH/leetcode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/JITGH/leetcode/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/JITGH/leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/JITGH/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/JITGH/leetcode/tree/master/0141-linked-list-cycle) |
@@ -1051,6 +1054,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/JITGH/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JITGH/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/JITGH/leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/JITGH/leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/JITGH/leetcode/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/JITGH/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/JITGH/leetcode/tree/master/0072-edit-distance) |
