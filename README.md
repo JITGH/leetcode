@@ -812,6 +812,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/JITGH/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/JITGH/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/JITGH/leetcode/tree/master/0670-maximum-swap) |
+| [0826-soup-servings](https://github.com/JITGH/leetcode/tree/master/0826-soup-servings) |
 | [0870-magic-squares-in-grid](https://github.com/JITGH/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/JITGH/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1014-k-closest-points-to-origin](https://github.com/JITGH/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -982,6 +983,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/JITGH/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/JITGH/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/JITGH/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0826-soup-servings](https://github.com/JITGH/leetcode/tree/master/0826-soup-servings) |
 | [0875-longest-mountain-in-array](https://github.com/JITGH/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/JITGH/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/JITGH/leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -1589,4 +1591,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/JITGH/leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/JITGH/leetcode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
