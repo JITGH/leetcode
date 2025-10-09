@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/JITGH/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/JITGH/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/JITGH/leetcode/tree/master/0135-candy) |
+| [0162-find-peak-element](https://github.com/JITGH/leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/JITGH/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/JITGH/leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/JITGH/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -635,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JITGH/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0162-find-peak-element](https://github.com/JITGH/leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/JITGH/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/JITGH/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/JITGH/leetcode/tree/master/0287-find-the-duplicate-number) |
