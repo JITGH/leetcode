@@ -393,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JITGH/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/JITGH/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JITGH/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/JITGH/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -513,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/JITGH/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/JITGH/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/JITGH/leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/JITGH/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -721,6 +723,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2716-prime-subtraction-operation](https://github.com/JITGH/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/JITGH/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/JITGH/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/JITGH/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Linked List
 |  |
 | ------- |
