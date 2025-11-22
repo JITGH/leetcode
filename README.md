@@ -381,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/JITGH/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/JITGH/leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/JITGH/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JITGH/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/JITGH/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/JITGH/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/JITGH/leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
@@ -847,6 +848,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2645-pass-the-pillow](https://github.com/JITGH/leetcode/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/JITGH/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/JITGH/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JITGH/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/JITGH/leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JITGH/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/JITGH/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
