@@ -730,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/JITGH/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2689-rearranging-fruits](https://github.com/JITGH/leetcode/tree/master/2689-rearranging-fruits) |
 | [2716-prime-subtraction-operation](https://github.com/JITGH/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JITGH/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3195-separate-black-and-white-balls](https://github.com/JITGH/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/JITGH/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/JITGH/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -856,6 +857,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2645-pass-the-pillow](https://github.com/JITGH/leetcode/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/JITGH/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/JITGH/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JITGH/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JITGH/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/JITGH/leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JITGH/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1175,6 +1177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/JITGH/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/JITGH/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/JITGH/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JITGH/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/JITGH/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/JITGH/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/JITGH/leetcode/tree/master/3195-separate-black-and-white-balls) |
