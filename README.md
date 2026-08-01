@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/JITGH/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/JITGH/leetcode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JITGH/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0486-predict-the-winner](https://github.com/JITGH/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/JITGH/leetcode/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/JITGH/leetcode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/JITGH/leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -840,6 +841,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/JITGH/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/JITGH/leetcode/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JITGH/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0486-predict-the-winner](https://github.com/JITGH/leetcode/tree/master/0486-predict-the-winner) |
 | [0564-find-the-closest-palindrome](https://github.com/JITGH/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/JITGH/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/JITGH/leetcode/tree/master/0650-2-keys-keyboard) |
@@ -1011,6 +1013,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/JITGH/leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/JITGH/leetcode/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/JITGH/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/JITGH/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/JITGH/leetcode/tree/master/0494-target-sum) |
 | [0638-shopping-offers](https://github.com/JITGH/leetcode/tree/master/0638-shopping-offers) |
 | [0650-2-keys-keyboard](https://github.com/JITGH/leetcode/tree/master/0650-2-keys-keyboard) |
@@ -1072,6 +1075,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0060-permutation-sequence](https://github.com/JITGH/leetcode/tree/master/0060-permutation-sequence) |
 | [0241-different-ways-to-add-parentheses](https://github.com/JITGH/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/JITGH/leetcode/tree/master/0273-integer-to-english-words) |
+| [0486-predict-the-winner](https://github.com/JITGH/leetcode/tree/master/0486-predict-the-winner) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/JITGH/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/JITGH/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/JITGH/leetcode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
@@ -1485,6 +1489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/JITGH/leetcode/tree/master/0486-predict-the-winner) |
 | [1240-stone-game-ii](https://github.com/JITGH/leetcode/tree/master/1240-stone-game-ii) |
 ## Bit Manipulation
 |  |
