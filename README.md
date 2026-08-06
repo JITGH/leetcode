@@ -869,6 +869,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/JITGH/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JITGH/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JITGH/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/JITGH/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/JITGH/leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JITGH/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/JITGH/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
@@ -1634,6 +1635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-longest-mountain-in-array](https://github.com/JITGH/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JITGH/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/JITGH/leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/JITGH/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/JITGH/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Monotonic Queue
 |  |
