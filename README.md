@@ -737,6 +737,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/JITGH/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/JITGH/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/JITGH/leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/JITGH/leetcode/tree/master/1927-sum-game) |
 | [2089-maximum-matrix-sum](https://github.com/JITGH/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JITGH/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/JITGH/leetcode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
@@ -872,6 +873,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/JITGH/leetcode/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/JITGH/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/JITGH/leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
+| [1927-sum-game](https://github.com/JITGH/leetcode/tree/master/1927-sum-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/JITGH/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/JITGH/leetcode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2155-find-missing-observations](https://github.com/JITGH/leetcode/tree/master/2155-find-missing-observations) |
@@ -1184,6 +1186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1894-merge-strings-alternately](https://github.com/JITGH/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JITGH/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/JITGH/leetcode/tree/master/1923-sentence-similarity-iii) |
+| [1927-sum-game](https://github.com/JITGH/leetcode/tree/master/1927-sum-game) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/JITGH/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JITGH/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JITGH/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -1518,6 +1521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/JITGH/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/JITGH/leetcode/tree/master/0877-stone-game) |
 | [1240-stone-game-ii](https://github.com/JITGH/leetcode/tree/master/1240-stone-game-ii) |
+| [1927-sum-game](https://github.com/JITGH/leetcode/tree/master/1927-sum-game) |
 ## Bit Manipulation
 |  |
 | ------- |
