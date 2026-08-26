@@ -1210,6 +1210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/JITGH/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/JITGH/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/JITGH/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/JITGH/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JITGH/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JITGH/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/JITGH/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -1481,6 +1482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JITGH/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/JITGH/leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/JITGH/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/JITGH/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JITGH/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JITGH/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JITGH/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
