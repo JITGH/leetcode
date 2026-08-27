@@ -658,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3471-find-the-largest-almost-missing-integer](https://github.com/JITGH/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JITGH/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JITGH/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/JITGH/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/JITGH/leetcode/tree/master/3731-find-missing-elements) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JITGH/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3945-digit-frequency-score](https://github.com/JITGH/leetcode/tree/master/3945-digit-frequency-score) |
@@ -755,6 +756,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3195-separate-black-and-white-balls](https://github.com/JITGH/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/JITGH/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/JITGH/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/JITGH/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
 |  |
 | ------- |
@@ -1226,6 +1228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3455-minimum-length-of-string-after-operations](https://github.com/JITGH/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/JITGH/leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/JITGH/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/JITGH/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JITGH/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
@@ -1412,6 +1415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JITGH/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JITGH/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/JITGH/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/JITGH/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JITGH/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Biconnected Component
 |  |
@@ -1661,6 +1665,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/JITGH/leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JITGH/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/JITGH/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/JITGH/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Monotonic Queue
 |  |
 | ------- |
