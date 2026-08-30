@@ -338,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/JITGH/leetcode/tree/master/2058-concatenation-of-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/JITGH/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2089-maximum-matrix-sum](https://github.com/JITGH/leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/JITGH/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/JITGH/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/JITGH/leetcode/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/JITGH/leetcode/tree/master/2155-find-missing-observations) |
@@ -740,6 +741,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1917-maximum-average-pass-ratio](https://github.com/JITGH/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-sum-game](https://github.com/JITGH/leetcode/tree/master/1927-sum-game) |
 | [2089-maximum-matrix-sum](https://github.com/JITGH/leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/JITGH/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JITGH/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/JITGH/leetcode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/JITGH/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
