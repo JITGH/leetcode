@@ -775,6 +775,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0859-design-circular-deque](https://github.com/JITGH/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/JITGH/leetcode/tree/master/0860-design-circular-queue) |
 | [1484-linked-list-in-binary-tree](https://github.com/JITGH/leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/JITGH/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JITGH/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/JITGH/leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/JITGH/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
