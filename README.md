@@ -401,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JITGH/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/JITGH/leetcode/tree/master/3427-special-array-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/JITGH/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/JITGH/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JITGH/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/JITGH/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/JITGH/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -660,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/JITGH/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/JITGH/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/JITGH/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/JITGH/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JITGH/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JITGH/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/JITGH/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -1118,6 +1120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/JITGH/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/JITGH/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/JITGH/leetcode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/JITGH/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -1680,6 +1683,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JITGH/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/JITGH/leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JITGH/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/JITGH/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/JITGH/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/JITGH/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Monotonic Queue
