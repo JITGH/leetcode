@@ -887,6 +887,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-greatest-common-divisor-of-strings](https://github.com/JITGH/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1240-stone-game-ii](https://github.com/JITGH/leetcode/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/JITGH/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/JITGH/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/JITGH/leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1927-sum-game](https://github.com/JITGH/leetcode/tree/master/1927-sum-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/JITGH/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -1684,6 +1685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/JITGH/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/JITGH/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/JITGH/leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
 ## Enumeration
 |  |
