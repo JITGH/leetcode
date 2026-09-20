@@ -820,6 +820,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/JITGH/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/JITGH/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/JITGH/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/JITGH/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JITGH/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/JITGH/leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Database
@@ -1251,6 +1252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/JITGH/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/JITGH/leetcode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/JITGH/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3498-reverse-degree-of-a-string](https://github.com/JITGH/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/JITGH/leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/JITGH/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/JITGH/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
