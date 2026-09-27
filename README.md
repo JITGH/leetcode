@@ -1204,6 +1204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/JITGH/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/JITGH/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/JITGH/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JITGH/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JITGH/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/JITGH/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/JITGH/leetcode/tree/master/1304-longest-happy-string) |
@@ -1287,6 +1288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1078-remove-outermost-parentheses](https://github.com/JITGH/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/JITGH/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/JITGH/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JITGH/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/JITGH/leetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JITGH/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/JITGH/leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -1741,4 +1743,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/JITGH/leetcode/tree/master/3310-remove-methods-from-project) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JITGH/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
