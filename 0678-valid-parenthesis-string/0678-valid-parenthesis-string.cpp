@@ -1,65 +1,33 @@
 class Solution {
-public: 
+public:
     bool checkValidString(string s) {
-        // stack<int> openBrackets; // Stack to store indices of open brackets
-        // stack<int> asterisks; // Stack to store indices of asterisks
-
-        // for (int i = 0; i < s.length(); i++) {
-        //     char ch = s[i];
-
-        //     // If current character is an open bracket, push its index onto the stack
-        //     if (ch == '(') {
-        //         openBrackets.push(i);
-        //         // If current character is an asterisk, push its index onto the stack
-        //     } else if (ch == '*') {
-        //         asterisks.push(i);
-        //         // current character is a closing bracket ')'
-        //     } else {
-        //         // If there are open brackets available, use them to balance the closing bracket
-        //         if (!openBrackets.empty()) {
-        //             openBrackets.pop();
-        //             // If no open brackets are available, use an asterisk to balance the closing bracket
-        //         } else if (!asterisks.empty()) {
-        //             asterisks.pop();
-        //             // Unmatched ')' and no '*' to balance it.
-        //         } else {
-        //             return false;
-        //         }
-        //     }
-        // }
-
-        // // Check if there are remaining open brackets and asterisks that can balance them
-        // while (!openBrackets.empty() && !asterisks.empty()) {
-        //     // If an open bracket appears after an asterisk, it cannot be balanced, return false
-        //     if (openBrackets.top() > asterisks.top()) {
-        //         return false; // '*' before '(' which cannot be balanced.
-        //     }
-        //     openBrackets.pop();
-        //     asterisks.pop();
-        // }
-
-        // // If all open brackets are matched and there are no unmatched open brackets left, return true
-        // return openBrackets.empty();
-
-        int mini=0;
-        int maxi=0;
-
-        for(int i=0;i<s.size();i++){
-            if(s[i]=='('){
-                mini++;
-                maxi++;
-
-            }else if(s[i]==')'){
-                mini--;
-                maxi--;
-            }else{
-                mini=mini-1;
-                maxi=maxi+1;
+        int openCount = 0;
+        int closeCount = 0;
+        int length = s.length() - 1;
+        
+        // Traverse the string from both ends simultaneously
+        for (int i = 0; i <= length; i++) {
+            // Count open parentheses or asterisks
+            if (s[i] == '(' || s[i] == '*') {
+                openCount++;
+            } else {
+                openCount--;
             }
-            if(mini<0) mini=0;
-            if(maxi<0) return false;
+            
+            // Count close parentheses or asterisks
+            if (s[length - i] == ')' || s[length - i] == '*') {
+                closeCount++;
+            } else {
+                closeCount--;
+            }
+            
+            // If at any point open count or close count goes negative, the string is invalid
+            if (openCount < 0 || closeCount < 0) {
+                return false;
+            }
         }
-
-        return (mini==0);
+        
+        // If open count and close count are both non-negative, the string is valid
+        return true;
     }
 };
