@@ -980,6 +980,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/JITGH/leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/JITGH/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/JITGH/leetcode/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/JITGH/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JITGH/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/JITGH/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/JITGH/leetcode/tree/master/0547-number-of-provinces) |
@@ -1181,6 +1182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/JITGH/leetcode/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/JITGH/leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/JITGH/leetcode/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/JITGH/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/JITGH/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JITGH/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/JITGH/leetcode/tree/master/0383-ransom-note) |
@@ -1574,6 +1576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/JITGH/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/JITGH/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/JITGH/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/JITGH/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/JITGH/leetcode/tree/master/0494-target-sum) |
 | [0638-shopping-offers](https://github.com/JITGH/leetcode/tree/master/0638-shopping-offers) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/JITGH/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
