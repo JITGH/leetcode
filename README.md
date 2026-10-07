@@ -744,6 +744,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/JITGH/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/JITGH/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/JITGH/leetcode/tree/master/0890-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/JITGH/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/JITGH/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/JITGH/leetcode/tree/master/0979-di-string-match) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/JITGH/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -1197,6 +1198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/JITGH/leetcode/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/JITGH/leetcode/tree/master/0726-number-of-atoms) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/JITGH/leetcode/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/JITGH/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0952-word-subsets](https://github.com/JITGH/leetcode/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/JITGH/leetcode/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/JITGH/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -1289,6 +1291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/JITGH/leetcode/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/JITGH/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/JITGH/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/JITGH/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/JITGH/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/JITGH/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1078-remove-outermost-parentheses](https://github.com/JITGH/leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -1756,6 +1759,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JITGH/leetcode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/JITGH/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/JITGH/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JITGH/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JITGH/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
