@@ -781,6 +781,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/JITGH/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/JITGH/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/JITGH/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/JITGH/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -920,6 +921,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JITGH/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/JITGH/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/JITGH/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/JITGH/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/JITGH/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/JITGH/leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/JITGH/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
