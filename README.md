@@ -393,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/JITGH/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/JITGH/leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/JITGH/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JITGH/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JITGH/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JITGH/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/JITGH/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -665,6 +666,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/JITGH/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/JITGH/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JITGH/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JITGH/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JITGH/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JITGH/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JITGH/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1490,6 +1492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/JITGH/leetcode/tree/master/1511-count-number-of-teams) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JITGH/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1689,6 +1692,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0729-my-calendar-i](https://github.com/JITGH/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/JITGH/leetcode/tree/master/0731-my-calendar-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JITGH/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/JITGH/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## Ordered Set
 |  |
